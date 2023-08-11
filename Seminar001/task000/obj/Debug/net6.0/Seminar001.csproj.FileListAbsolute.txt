@@ -1,0 +1,15 @@
+D:\MyEducation\C#(seminars)\Seminar001\bin\Debug\net6.0\Seminar001.exe
+D:\MyEducation\C#(seminars)\Seminar001\bin\Debug\net6.0\Seminar001.deps.json
+D:\MyEducation\C#(seminars)\Seminar001\bin\Debug\net6.0\Seminar001.runtimeconfig.json
+D:\MyEducation\C#(seminars)\Seminar001\bin\Debug\net6.0\Seminar001.dll
+D:\MyEducation\C#(seminars)\Seminar001\bin\Debug\net6.0\Seminar001.pdb
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.csproj.AssemblyReference.cache
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.AssemblyInfoInputs.cache
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.AssemblyInfo.cs
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.csproj.CoreCompileInputs.cache
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.dll
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\refint\Seminar001.dll
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.pdb
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\Seminar001.genruntimeconfig.cache
+D:\MyEducation\C#(seminars)\Seminar001\obj\Debug\net6.0\ref\Seminar001.dll
