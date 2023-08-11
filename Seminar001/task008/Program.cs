@@ -5,7 +5,7 @@
 */
 
 Console.Write("Введите любое положительное число: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()!);
 
 int evenNumber = 2;
 

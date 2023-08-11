@@ -45,6 +45,6 @@ else
 //Вариант №2 (через массив)
 
 Console.WriteLine("Введите порядковый номер дня недели");
-int day = int.Parse(Console.ReadLine());
+int day = int.Parse(Console.ReadLine()!);
 string[] days = {"Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"};
 Console.WriteLine(days[day-1]);

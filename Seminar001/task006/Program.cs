@@ -6,7 +6,7 @@
 */
 
 Console.Write("Введите число: ");
-int number = int.Parse(Console.ReadLine());
+int number = int.Parse(Console.ReadLine()!);
 
 int evenNumber = number % 2;
 
