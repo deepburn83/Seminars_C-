@@ -24,13 +24,13 @@ bool ValidateDayOfWeek(int number)
     if (number > 0 && number <= 7)
         return true;
     System.Console.WriteLine("Это не день недели");
-        return false;
+    return false;
 }
 
 int weekDay = InputDay("Введите день недели: ");
 if (ValidateDayOfWeek(weekDay))
 {
-    if(Weekend(weekDay))
+    if (Weekend(weekDay))
         System.Console.WriteLine("Это выходной день :)");
     else
         System.Console.WriteLine("Это не выходной день :(");
